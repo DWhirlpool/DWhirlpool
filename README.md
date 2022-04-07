@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwhirlpool&langs_count=8)](https://github.com/dwhirlpool)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwhirlpool&langs_count=20)](https://github.com/dwhirlpool)
 
 ![DWhirlpool's Github Stats](https://github-readme-stats.vercel.app/api?username=dwhirlpool&show_icons=true&theme=buefy)
 
