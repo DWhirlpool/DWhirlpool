@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dwhirlpool&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ![download (2)](https://user-images.githubusercontent.com/95860724/163658795-44583a06-1473-4be5-a8e5-1a76ca494f6b.svg)
 
   <img
