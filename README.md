@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 [![DWhirlpool's github activity graph](https://activity-graph.herokuapp.com/graph?username=dwhirlpool&theme=react-dark)](https://github.com/dwhirlpool)
 
+![Metrics](https://metrics.lecoq.io/dwhirlpool?template=classic&config.timezone=Asia%2FShanghai)
+
   <img src="https://camo.githubusercontent.com/b6ae1dd7ceab305dac6a3774511e4ae2d5e613a9533b83c92caff4e70c12ee67/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744b72616b656e2d4c6567656e64617279253230476974253230546f6f6c732d7465616c3f7374796c653d706c6173746963266c6f676f3d6769746b72616b656e">  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> <img alt="[VS Code" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img>
 <table>
   <tr>
