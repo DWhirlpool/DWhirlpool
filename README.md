@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<!--
+### Hi there 👋, I am a Auth0 Ambassador , VSCode Power User , GitHub Developer Program Member , Creator/Maintainer of [@ptop-py](https://github.com/ptop-py)
 **DWhirlpool/DWhirlpool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
