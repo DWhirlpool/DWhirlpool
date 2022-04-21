@@ -2,10 +2,11 @@
 
 ##### I am a
 1. [Auth0 Ambassador](https://auth0.com/ambassador-program)
-2. [Google Developer Student Club Member](https://gdsc.community.dev/)
-3. [VSCode Power User](https://vscode.pro/)
-4. [GitHub Developer Program Member](https://docs.github.com/en/developers/overview/github-developer-program)
-5. Creator/Maintainer of <a class="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/ptop-py/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/ptop-py">@ptop-py</a>
+2. [Microsoft 365 Developer Member](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
+3. [Google Developer Student Club Member](https://gdsc.community.dev/)
+4. [VSCode Power User](https://vscode.pro/)
+5. [GitHub Developer Program Member](https://docs.github.com/en/developers/overview/github-developer-program)
+6. Creator/Maintainer of <a class="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/ptop-py/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/ptop-py">@ptop-py</a>
 
 
 
