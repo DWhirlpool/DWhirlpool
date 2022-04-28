@@ -28,7 +28,7 @@
 
 ![download (2)](https://user-images.githubusercontent.com/95860724/163658795-44583a06-1473-4be5-a8e5-1a76ca494f6b.svg)
 
-[![My Skills](https://skillicons.dev/icons?i=astro,arduino,azure,bash,cpp,codepen,css,github,gitlab,html,js,jquery,linux,md,nodejs,powershell,py,,sass,stackoverflow,tailwind,ts,visualstudio,vscode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=astro,arduino,azure,bash,cpp,codepen,css,github,gitlab,html,js,jquery,linux,md,nodejs,powershell,py,sass,stackoverflow,tailwind,ts,visualstudio,vscode&perline=3)](https://skillicons.dev)
 
 <table>
   <tr>
