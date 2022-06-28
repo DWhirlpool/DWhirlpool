@@ -33,7 +33,7 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/DWhirlpool"><img src="https://user-images.githubusercontent.com/95860724/163571845-14119a05-0ae2-4114-b1c4-25787e3ddbd2.gif"><br /><sub>             <b>DWhirlpool</b></sub></a><br /><a href="#creator-dwhirlpool" title="Creator">D🌀</a></td>
+    <td align="center"><a href="https://github.com/DWhirlpool"><img src="https://avatars.githubusercontent.com/u/95860724?v=4"><br /><sub>             <b>DWhirlpool</b></sub></a><br /><a href="#creator-dwhirlpool" title="Creator">D🌀</a></td>
   </tr>
 </table>
 
