@@ -1,4 +1,4 @@
-const rocket = () => {
+function rocket() {
     var duration = 15 * 1000;
     var animationEnd = Date.now() + duration;
     var defaults = { startVelocity: 30, spread: 360, ticks: 60, zIndex: 0 };
@@ -21,7 +21,7 @@ const rocket = () => {
     }, 250);
 }
 
-const snow = () => {
+function snow() {
     var duration = 15 * 1000;
     var animationEnd = Date.now() + duration;
     var skew = 1;
