@@ -18,7 +18,7 @@
 
 [![DWhirlpool's github activity graph](https://activity-graph.herokuapp.com/graph?username=dwhirlpool&theme=react-dark)](https://github.com/dwhirlpool)
 
-![Metrics](https://metrics.lecoq.io/dwhirlpool?template=classic&config.timezone=Asia%2FShanghai)
+![Metrics](https://metrics.lecoq.io/DWhirlpool?template=classic&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.only=developer%2C%20stargazer%2C%20deployer&config.timezone=Asia%2FShanghai)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dwhirlpool&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
